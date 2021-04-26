@@ -2,7 +2,7 @@
 
 ## ✔️ [Lab 18](Lab18)
 
-1. 📜 [demo.cpp](CPPscripts/Lab18/demo.cpp)
+1. 📜 [demo.cpp](Lab18/demo.cpp)
 
 ```
 Write a C++ code using pthread library that performs the following actions:
@@ -24,7 +24,7 @@ Hint: Use Global declaration of variables for access.
 
 ## ✔️ [Lab 19](Lab19)
 
-1. 📜 [demo.cpp](CPPscripts/Lab19/demo.cpp)
+1. 📜 [demo.cpp](Lab19/demo.cpp)
 
 ```
 Implement Consumer Producer Problem using two threads:
@@ -37,7 +37,7 @@ Producer Thread
 
 ## ✔️ [Lab 20](Lab20)
 
-1. 📜 [demo.cpp](CPPscripts/Lab20/demo.cpp)
+1. 📜 [demo.cpp](Lab20/demo.cpp)
 
 ```
 Implement Producer and Consumer in two different threads. Solve Producer and Consumer problem using binary semaphores.
@@ -47,25 +47,25 @@ Implement Producer and Consumer in two different threads. Solve Producer and Con
 
 ## ✔️ [Lab 21](Lab21)
 
-1. 📜 [fcfs.cpp](CPPscripts/Lab21/fcfs.cpp)
+1. 📜 [fcfs.cpp](Lab21/fcfs.cpp)
 
 ```
 Implement First Come First Serve(FCFS) Scheduling.
 ```
 
-2. 📜 [sjf.cpp](CPPscripts/Lab21/sjf.cpp)
+2. 📜 [sjf.cpp](Lab21/sjf.cpp)
 
 ```
 Implement Shortest-Job-First(SJF) Scheduling.
 ```
 
-3. 📜 [ps.cpp](CPPscripts/Lab21/ps.cpp)
+3. 📜 [ps.cpp](Lab21/ps.cpp)
 
 ```
 Implement Priority Scheduling.
 ```
 
-4. 📜 [rr.cpp](CPPscripts/Lab21/rr.cpp)
+4. 📜 [rr.cpp](Lab21/rr.cpp)
 
 ```
 Implement Round Robin(RR) Scheduling.
