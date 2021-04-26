@@ -1,6 +1,6 @@
 # C++ Scripts
 
-## 🗄️ [Lab 18](Lab18)
+## ✔️ [Lab 18](Lab18)
 
 1. 📜 [demo.cpp](CPPscripts/Lab18/demo.cpp)
 
@@ -22,7 +22,7 @@ Hint: Use Global declaration of variables for access.
 
 <br/>
 
-## 🗄️ [Lab 19](Lab19)
+## ✔️ [Lab 19](Lab19)
 
 1. 📜 [demo.cpp](CPPscripts/Lab19/demo.cpp)
 
@@ -35,7 +35,7 @@ Producer Thread
 
 <br/>
 
-## 🗄️ [Lab 20](Lab20)
+## ✔️ [Lab 20](Lab20)
 
 1. 📜 [demo.cpp](CPPscripts/Lab20/demo.cpp)
 
@@ -45,7 +45,7 @@ Implement Producer and Consumer in two different threads. Solve Producer and Con
 
 <br/>
 
-## 🗄️ [Lab 21](Lab21)
+## ✔️ [Lab 21](Lab21)
 
 1. 📜 [fcfs.cpp](CPPscripts/Lab21/fcfs.cpp)
 

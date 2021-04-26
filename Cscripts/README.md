@@ -1,6 +1,6 @@
 # C Scripts
 
-## 🗄️ [Lab 16](Lab16)
+## ✔️ [Lab 16](Lab16)
 
 1. 📜 [task1.c](Cscripts/Lab16/task1.c)
 
@@ -22,7 +22,7 @@ Find out errors in the given program correct them and explain what the output wi
 
 <br/>
 
-## 🗄️ [Lab 17](Lab17)
+## ✔️ [Lab 17](Lab17)
 
 1. 📜 [demo.c](Cscripts/Lab17/demo.c)
 
